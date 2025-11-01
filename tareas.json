@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "texto": "Comprar lavadora",
+    "creada": "2025-10-30T01:44:41.615Z",
+    "completada": false,
+    "prioridad": "media"
+  },
+  {
+    "id": 3,
+    "texto": "Ejecutar proyecto eléctrico",
+    "creada": "2025-10-30T01:45:30.161Z",
+    "completada": true,
+    "prioridad": "media",
+    "completadaEn": "2025-11-01T01:22:45.630Z"
+  }
+]
